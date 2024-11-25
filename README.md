@@ -1,0 +1,1 @@
+De-identified dataset that supports the findings of the maunscript "Personalized azithromycin treatment rules for children with watery diarrhea using machine learning" is available upon reasonable request and signed data access agreement upon publication. 
